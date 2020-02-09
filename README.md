@@ -14,3 +14,6 @@ npm run start
 ```
 
 Feel free to use fragments of this code in your applications!
+
+Article here:
+https://medium.com/@izhur27/getting-started-with-waves-signer-893017c9b7ae
